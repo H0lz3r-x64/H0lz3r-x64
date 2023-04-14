@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=276DC3&logo=python&logoColor=FFFFFF)](https://www.r-project.org/) | [![placeholder](https://img.shields.io/static/v1?label=&message=placeholder&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](google.com) |
-| [![Excel-VBA](https://img.shields.io/static/v1?label=&message=Excel-VBA&color=217346&logo=microsoft%20excel&logoColor=FFFFFF)](excel.com) | [![Excel-AutoFormat](https://img.shields.io/static/v1?label=&message=Excel-AutoFormat&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)]([https://github.com/jimbrig/xl-macros](https://github.com/H0lz3r-x64/Excel-AutoFormat)) |
+| [![Excel-VBA](https://img.shields.io/static/v1?label=&message=Excel-VBA&color=217346&logo=microsoft%20excel&logoColor=FFFFFF)](excel.com) | [![Excel-AutoFormat](https://img.shields.io/static/v1?label=&message=Excel-AutoFormat&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/H0lz3r-x64/Excel-AutoFormat) |
