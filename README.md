@@ -1,37 +1,9 @@
-### Hi there 👋
-
-**This is heavily WIP**
-
-<!--
-**H0lz3r-x64/H0lz3r-x64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center">My Projects</h2>
-
-
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=276DC3&logo=python&logoColor=FFFFFF)](https://www.r-project.org/) | [![PyQT Addressmanagement](https://img.shields.io/static/v1?label=&message=Addressmanagement&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/H0lz3r-x64/Addressmanagement) [![DjangoGirls Blog Tutorial](https://img.shields.io/static/v1?label=&message=DjangoGirlsBlog&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/H0lz3r-x64/DjangoGirlsBlog)
-| [![Excel-VBA](https://img.shields.io/static/v1?label=&message=Excel-VBA&color=217346&logo=microsoft%20excel&logoColor=FFFFFF)](excel.com) | [![Excel-AutoFormat](https://img.shields.io/static/v1?label=&message=Excel-AutoFormat&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/H0lz3r-x64/Excel-AutoFormat) |
-
-
-<!-- Your Name -->
+<!-- Name -->
 # Hello, I'm Luca 👋
 
-<!-- Your Bio -->
+<!-- Bio -->
 I'm a passionate programmer from Graz, Austria.
-<!-- Your GitHub Stats -->
+<!-- GitHub Stats -->
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=H0lz3r-x64&show_icons=true&count_private=true&hide=issues&theme=radical)
