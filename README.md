@@ -1,5 +1,5 @@
 <!-- Name -->
-# Hello, I'm Luca 👋 :3
+# Hello, I'm Maya 👋 :3
 
 <!-- Bio -->
 I'm a passionate programmer from Graz, Austria.
