@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Maya Holzer 👋</h1>
 <p align="center">
-  <em>20 years old 🌸 | Application Developer Apprentice at <a href="https://www.knapp.com/">KNAPP AG</a> | Based in Graz, Austria 🇦🇹</em>
+  <em>20 years old 🌸 | Application Developer Apprentice at <a href="https://www.knapp.com/">KNAPP AG</a> <img src="Knapp_Logo.svg" alt="KNAPP Logo" width="20"/> | Based in Graz, Austria 🇦🇹</em>
 </p>
 
 <p align="center">
