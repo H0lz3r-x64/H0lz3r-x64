@@ -70,7 +70,7 @@ graph TD;
 <h2 align="center">📫 Let’s Connect!</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/h0lz3r-x64"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/h0lz3r-x64/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
    <a href="mailto:luca.j.holzer@gmail.com"><img src="https://img.shields.io/badge/E--Mail-%23fe99b7?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
