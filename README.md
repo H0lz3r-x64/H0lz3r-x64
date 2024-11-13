@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Maya Holzer 👋</h1>
+<h1 align="center">Hai, I'm Maya Holzer 👋🌸</h1>
 <p align="center">
   <em>20 years old 🌸 | Application Developer Apprentice at <a href="https://www.knapp.com/">KNAPP AG</a> <img src="Knapp_Logo.svg" alt="KNAPP Logo" width="20"/> | Based in Graz, Austria 🇦🇹</em>
 </p>
@@ -23,9 +23,8 @@
 <h2 align="center">🚀 What I Do</h2>
 
 - 🌐 **Web Development**: Building sleek and functional UIs and APIs.  
-- 🎮 **Game Development**: Crafting interactive games (Unity, Godot).  
-- 🤖 **Robotics**: Working on vision and motion control systems.  
-- 🤖 **Bots and Automation**: Creating AI-driven bots for work and play.  
+- 🤖 **Robotics**: Working on fleet control systems.  
+- 🤖 **Bots and Automation**: Working on discord bots and other automation in my daily life.  
 - 🌈 **Learning**: Always exploring new tech and ideas!  
 
 ---
@@ -62,22 +61,24 @@ graph TD;
 - 🌍 Graz is my home, but I’m always connected to the world.  
 - 💭 Dreaming of a future where I create games and bots that spark joy and wonder.  
 -->
+<p align="center">
+<em>coming soon! <3</em>
+</p>
+  
 ---
 
 <h2 align="center">📫 Let’s Connect!</h2>
 
 <p align="center">
-  <a href="https://github.com/H0lz3r-x64"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/maya-holzer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/h0lz3r-x64"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+   <a href="mailto:luca.j.holzer@gmail.com"><img src="https://img.shields.io/badge/E--Mail-%23fe99b7?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The+true+revolutionary+is+guided+by+great+feelings+of+love&author=Ernesto+%22Che%22+Guevara&border=true"  alt="Inspirational Quote" />
 </p>
-
----
 
 <p align="center">
   Built with 💖 by <strong>Maya Holzer</strong>.
