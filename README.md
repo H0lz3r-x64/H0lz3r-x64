@@ -48,7 +48,7 @@
 
 A web-based app with mobile capabilities designed to simplify and organize shared living arrangements (Wohngemeinschaften). It centralizes all aspects of communal living, from scheduling and finances to shopping and tasks, making it easier for residents to stay organized and harmonious.
 
-
+<p align="center">
 <img src="https://github.com/user-attachments/assets/6014670a-6207-4033-a3da-7bafdac54aca" height="450px"/>
 
 <img src="https://github.com/user-attachments/assets/3b40d252-d6e8-49e8-b10c-46b8a46d90de" height="450px"/>
@@ -60,9 +60,7 @@ A web-based app with mobile capabilities designed to simplify and organize share
 <img src="https://github.com/user-attachments/assets/0b378665-457b-45cd-aeb3-6ec390e3dfef" height="450px"/>
 
 <img src="https://github.com/user-attachments/assets/09fa4b7f-ac2f-4e05-8ad7-4f7abd18ec76" height="450px"/>
-
-
-
+</p>
 
 ---
 
@@ -88,9 +86,8 @@ A web-based app with mobile capabilities designed to simplify and organize share
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The+true+revolutionary+is+guided+by+great+feelings+of+love&author=Ernesto+%22Che%22+Guevara&border=true"  alt="Inspirational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The+true+revolutionary+is+guided+by+great+feelings+of+love&author=Ernesto+%22Che%22+Guevara&border=true" alt="Inspirational Quote" width="600px"/>
 </p>
-
 <p align="center">
   Built with 💖 by <strong>Maya Holzer</strong>.
 </p>
