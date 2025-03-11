@@ -14,8 +14,8 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,qt,js,ts,html,css,angular,java,kotlin,flutter,c,cpp,php,discordjs&perline=20" alt="Tech Stack" />
-  <img src="https://skillicons.dev/icons?i=unreal,docker,kubernetes,git,linux,mysql,figma,pr,ps,ae,&perline=20" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,qt,js,ts,html,css,angular,supabase,java,kotlin,flutter,c,cpp,php,discordjs&perline=20" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=unreal,docker,kubernetes,git,linux,mysql,postgresql,figma,pr,ps,ae,&perline=20" alt="Tech Stack" />
 </div>
 
 ---
