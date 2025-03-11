@@ -40,18 +40,29 @@
 
 ---
 
-<h2 align="center">🌌 My Programming Journey</h2>
+<h2 align="center">🌌 What I'm up to recently</h2>
+
+## Common Ground - Shared Living Management App
+
+## Overview
+
+A web-based app with mobile capabilities designed to simplify and organize shared living arrangements (Wohngemeinschaften). It centralizes all aspects of communal living, from scheduling and finances to shopping and tasks, making it easier for residents to stay organized and harmonious.
 
 
-```mermaid
-graph TD;
-    Start[Curiosity for Tech] --> HTML[Web Development]
-    HTML --> JS[JavaScript & Backend]
-    JS --> Bots[Chatbots & APIs]
-    Bots --> Vision[Computer Vision]
-    Vision --> Robotics[Robotics & Automation]
-    Robotics --> NeverStop[Always Learning 🚀]
-```
+<img src="https://github.com/user-attachments/assets/6014670a-6207-4033-a3da-7bafdac54aca" height="450px"/>
+
+<img src="https://github.com/user-attachments/assets/3b40d252-d6e8-49e8-b10c-46b8a46d90de" height="450px"/>
+
+<img src="https://github.com/user-attachments/assets/e2e46a7d-36d5-40d9-a541-3ca7ab89542a" height="450px"/>
+
+<img src="https://github.com/user-attachments/assets/0c1173c5-1122-4dde-9c29-8e6221933786" height="450px"/>
+
+<img src="https://github.com/user-attachments/assets/0b378665-457b-45cd-aeb3-6ec390e3dfef" height="450px"/>
+
+<img src="https://github.com/user-attachments/assets/09fa4b7f-ac2f-4e05-8ad7-4f7abd18ec76" height="450px"/>
+
+
+
 
 ---
 
