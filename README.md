@@ -22,23 +22,71 @@
 
 <h2 align="center">🚀 Projects I'm Proud Of</h2>
 
-### 🏠 [Common Ground](https://common-ground-app.netlify.app/) - Flat Management App    `🚧 WIP 🚧`
+### 🏠 [Common Ground](https://common-ground-app.netlify.app/) - Flat Management App    `2025` `🚧 WIP 🚧`
 Comprehensive mobile-first app that makes shared living actually enjoyable! Features collaborative shopping lists, expense tracking with automated debt calculations, real-time presence tracking, and receipt uploads.
 > Angular 19 • Ionic 7 • Capacitor • Supabase • TypeScript • PostgreSQL
 
-### 🤖 [AustriaSkills Robot WebInterface](https://github.com/H0lz3r-x64/AustriaSkills-Robot-WebInterface)
+### 🤖 [AustriaSkills Robot WebInterface](https://github.com/H0lz3r-x64/AustriaSkills-Robot-WebInterface)    `2023`
 Responsive web interface for monitoring and controlling competition robots, with real-time metrics and interactive path visualization. Built for both desktop and mobile browsers.
 <br>My first real working web application.
 > JavaScript • HTML/CSS • Canvas API • Real-time data
 
-### 📊 [DB-Table-Export](https://github.com/H0lz3r-x64/DB-Table-Export) - Report Generation
+### 📊 [DB-Table-Export](https://github.com/H0lz3r-x64/DB-Table-Export) - Report Generation    `2023`
 Customizable report generation for managing educational courses and apprentice data, creating self-contained HTML and PDF exports.
 > Python • HTML • PDF generation
 
-### 🔄 ProjectMigrater - Enterprise Migration System
-*(Department internal)* Comprehensive migration system for autonomous shuttle data, using versioned scripts to transform JSON/Protobuf between protocol versions.
+### 🔄 ProjectMigrater - Enterprise Migration System    `2025`
+*(Department internal)* Comprehensive migration system for autonomous shuttle data, using versioned scripts to transform JSON/Protobuf between protocol versions. Focus on clean software design.
 > Python • Flask • Angular • JSON • REST API
 
+```mermaid
+sequenceDiagram
+    participant User
+    participant Interface as CLI/API Interface
+    participant Manager as Migration Manager
+    participant Discovery as Class Discovery
+    participant Scripts as Migration Scripts
+    participant Data as Project Data
+    
+    User->>Interface: Upload project file + config
+    Interface->>Manager: Initialize with file & feedback service
+    Manager->>Manager: Load configuration & global params
+    Manager->>Data: Load and parse project JSON
+    Manager->>Data: Extract current protocol version
+    
+    User->>Interface: Request setup
+    Interface->>Manager: setup()
+    Manager->>Discovery: Retrieve available scripts
+    Discovery->>Scripts: Load migration & utility classes
+    Manager-->>Interface: Return current version & global params
+    
+    User->>Interface: Request migration with target version
+    Interface->>Manager: run(RunConfig)
+    Manager->>Discovery: Filter scripts by version range
+    Discovery-->>Manager: Return applicable script classes
+    Manager->>Scripts: Instantiate with parameters
+    Manager->>Scripts: Validate parameters
+    
+    loop For each migration script (version order)
+        Manager->>Scripts: Check if should apply
+        Scripts->>Data: Analyze current state
+        Manager->>Scripts: Execute migrate()
+        Scripts->>Data: Transform data
+        Scripts->>Data: Update protocol version
+        Manager->>Interface: Provide feedback
+    end
+    
+    loop For each utility script
+        Manager->>Scripts: Execute migrate()
+        Scripts->>Data: Apply utility transformation
+        Manager->>Interface: Provide feedback
+    end
+    
+    Manager->>Manager: Generate migration report
+    Manager-->>Interface: Return result with migrated data
+    Interface-->>User: Provide output file & report
+
+```
 ---
 
 <h2 align="center">✨ Current Focus: Common Ground</h2>
