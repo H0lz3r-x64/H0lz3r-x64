@@ -1,6 +1,6 @@
 <h1 align="center">Hai, I'm Maya Holzer 👋🌸</h1>
 <p align="center">
-  <em>20 years old 🌸 | Application Developer Apprentice at <a href="https://www.knapp.com/">KNAPP AG</a> <img src="Knapp_Logo.svg" alt="KNAPP Logo" width="20"/> | Based in Graz, Austria 🇦🇹</em>
+  <em>20 years old 🌸 | Application Developer Apprentice @ <a href="https://www.knapp.com/">KNAPP AG</a> <img src="Knapp_Logo.svg" alt="KNAPP Logo" width="20"/> | Based in Graz, Austria 🇦🇹</em>
 </p>
 
 <p align="center">
@@ -20,12 +20,41 @@
 
 ---
 
-<h2 align="center">🚀 What I Do</h2>
+<h2 align="center">🚀 Projects I'm Proud Of</h2>
 
-- 🌐 **Web Development**: Building sleek and functional UIs and APIs.  
-- 🤖 **Robotics**: Working on fleet control systems.  
-- 🤖 **Bots and Automation**: Working on discord bots and other automation in my daily life.  
-- 🌈 **Learning**: Always exploring new tech and ideas!  
+### 🏠 [Common Ground](https://common-ground-app.netlify.app/) - Flat Management App    `🚧 WIP 🚧`
+Comprehensive mobile-first app that makes shared living actually enjoyable! Features collaborative shopping lists, expense tracking with automated debt calculations, real-time presence tracking, and receipt uploads.
+> Angular 19 • Ionic 7 • Capacitor • Supabase • TypeScript • PostgreSQL
+
+### 🤖 [AustriaSkills Robot WebInterface](https://github.com/H0lz3r-x64/AustriaSkills-Robot-WebInterface)
+Responsive web interface for monitoring and controlling competition robots, with real-time metrics and interactive path visualization. Built for both desktop and mobile browsers.
+<br>My first real working web application.
+> JavaScript • HTML/CSS • Canvas API • Real-time data
+
+### 📊 [DB-Table-Export](https://github.com/H0lz3r-x64/DB-Table-Export) - Report Generation
+Customizable report generation for managing educational courses and apprentice data, creating self-contained HTML and PDF exports.
+> Python • HTML • PDF generation
+
+### 🔄 ProjectMigrater - Enterprise Migration System
+*(Department internal)* Comprehensive migration system for autonomous shuttle data, using versioned scripts to transform JSON/Protobuf between protocol versions.
+> Python • Flask • Angular • JSON • REST API
+
+---
+
+<h2 align="center">✨ Current Focus: Common Ground</h2>
+
+<p align="center">A web-based app with mobile capabilities designed to simplify shared living arrangements. It centralizes all aspects of communal living, from scheduling and finances to shopping and tasks, making it easier for residents to stay organized and harmonious.</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6014670a-6207-4033-a3da-7bafdac54aca" height="350px"/>
+<img src="https://github.com/user-attachments/assets/3b40d252-d6e8-49e8-b10c-46b8a46d90de" height="350px"/>
+<img src="https://github.com/user-attachments/assets/e2e46a7d-36d5-40d9-a541-3ca7ab89542a" height="350px"/>
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0c1173c5-1122-4dde-9c29-8e6221933786" height="350px"/>
+<img src="https://github.com/user-attachments/assets/0b378665-457b-45cd-aeb3-6ec390e3dfef" height="350px"/>
+<img src="https://github.com/user-attachments/assets/09fa4b7f-ac2f-4e05-8ad7-4f7abd18ec76" height="350px"/>
+</p>
 
 ---
 
@@ -35,52 +64,25 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=H0lz3r-x64&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0lz3r-x64&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H0lz3r-x64&bg_color=0d1117&color=ff6ec7&line=ff6ec7&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=H0lz3r-x64&bg_color=0d1117&color=ff6ec7&line=ff6ec7&point=ffffff&hide_border=true" alt="GitHub Activity Graph" /> -->
 </div>
 
----
+<h2 align="center">💭 About Me</h2>
 
-<h2 align="center">🌌 What I'm up to recently</h2>
+- 🌱 Learning while trying to enjoy these formative years
+- 🏠 Working on apps that actually help people in their daily lives
+- 🧠 Interested in creating tech that makes life better, not profits!
+- 🎨 Blend coding with creativity to solve real problems
+- 🌍 Based in Graz but connected globally
+- 🔮 Dream of building technology that encourages community and cooperation
 
-## Common Ground - Shared Living Management App
-
-## Overview
-
-A web-based app with mobile capabilities designed to simplify and organize shared living arrangements (Wohngemeinschaften). It centralizes all aspects of communal living, from scheduling and finances to shopping and tasks, making it easier for residents to stay organized and harmonious.
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/6014670a-6207-4033-a3da-7bafdac54aca" height="450px"/>
-
-<img src="https://github.com/user-attachments/assets/3b40d252-d6e8-49e8-b10c-46b8a46d90de" height="450px"/>
-
-<img src="https://github.com/user-attachments/assets/e2e46a7d-36d5-40d9-a541-3ca7ab89542a" height="450px"/>
-
-<img src="https://github.com/user-attachments/assets/0c1173c5-1122-4dde-9c29-8e6221933786" height="450px"/>
-
-<img src="https://github.com/user-attachments/assets/0b378665-457b-45cd-aeb3-6ec390e3dfef" height="450px"/>
-
-<img src="https://github.com/user-attachments/assets/09fa4b7f-ac2f-4e05-8ad7-4f7abd18ec76" height="450px"/>
-</p>
-
----
-
-<h2 align="center">✨ Fun Facts</h2>
-
-<!-- - 🎨 I enjoy blending tech and creativity to solve problems. 
-- 🌍 Graz is my home, but I’m always connected to the world.  
-- 💭 Dreaming of a future where I create games and bots that spark joy and wonder.  
--->
-<p align="center">
-<em>coming soon! <3</em>
-</p>
-  
 ---
 
 <h2 align="center">📫 Let’s Connect!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/h0lz3r-x64/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-   <a href="mailto:luca.j.holzer@gmail.com"><img src="https://img.shields.io/badge/E--Mail-%23fe99b7?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+   <a href="mailto:maya.dev@posteo.net"><img src="https://img.shields.io/badge/E--Mail-%23fe99b7?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
