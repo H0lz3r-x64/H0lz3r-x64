@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+💻;Game+Dev+Enthusiast+🕹;Vision+%2B+Robotics+🤖;Graphics+%2B+Video+Editing+🎬;Always+Learning+%26+Creating!+✨" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=FF79C6&center=true&vCenter=true&width=900&lines=Code+with+Purpose%2C+Life+with+Intention+%F0%9F%92%BB%F0%9F%8C%BF;+Full-Stack+Dev+on+a+mission+to+build+useful%2C+elegant+things+;+Passionate+about+autonomy%2C+self-hosting%2C+and+lifelong+learning;+Tech-savvy%2C+people-conscious%2C+and+always+up+for+a+challenge;+Blending+logic%2C+empathy%2C+and+vision%E2%80%94one+project+at+a+time" alt="Typing SVG" /></a>
 </p>
 
 ---
