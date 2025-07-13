@@ -3,6 +3,15 @@
   <em>20 years old 🌸 | Application Developer Apprentice @ <a href="https://www.knapp.com/">KNAPP AG</a> <img src="Knapp_Logo.svg" alt="KNAPP Logo" width="20"/> | Based in Graz, Austria 🇦🇹</em>
 </p>
 
+<div align="center">
+  <br>
+<a href="https://www.common-ground.homes" align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Try%20CommonGround%20now!%20%E2%9C%A8%F0%9F%92%96%20%3A)-ya?style=for-the-badge&logo=rocket&logoColor=%23673ab7&logoSize=auto&labelColor=%23f4b2dd&color=%23F5BAE0">
+  <br>
+  <br>
+</a>
+
+</div>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=FF79C6&center=true&vCenter=true&width=900&lines=Code+with+Purpose%2C+Life+with+Intention+%F0%9F%92%BB%F0%9F%8C%BF;+Full-Stack+Dev+on+a+mission+to+build+useful%2C+elegant+things+;+Passionate+about+autonomy%2C+self-hosting%2C+and+lifelong+learning;+Tech-savvy%2C+people-conscious%2C+and+always+up+for+a+challenge;+Blending+logic%2C+empathy%2C+and+vision%E2%80%94one+project+at+a+time" alt="Typing SVG" /></a>
 </p>
@@ -20,7 +29,7 @@
 
 <h2 align="center">🚀 Projects I'm Proud Of</h2>
 
-### 🏠 [Common Ground](https://common-ground-app.netlify.app/) - Flat Management App    `2025` `🚧 WIP 🚧`
+### 🏠 [Common Ground](common-ground.homes) - Flat Management App    `2025` `🚧 WIP 🚧`
 Comprehensive mobile-first app that makes shared living actually enjoyable! Features collaborative shopping lists, expense tracking with automated debt calculations, real-time presence tracking, and receipt uploads.
 > Angular 19 • Ionic 7 • Capacitor • Supabase • TypeScript • PostgreSQL
 
