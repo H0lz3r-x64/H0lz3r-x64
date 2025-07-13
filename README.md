@@ -29,7 +29,7 @@
 
 <h2 align="center">🚀 Projects I'm Proud Of</h2>
 
-### 🏠 [Common Ground](common-ground.homes) - Flat Management App    `2025` `🚧 WIP 🚧`
+### 🏠 [Common Ground](https://www.common-ground.homes) - Flat Management App    `2025` `🚧 WIP 🚧`
 Comprehensive mobile-first app that makes shared living actually enjoyable! Features collaborative shopping lists, expense tracking with automated debt calculations, real-time presence tracking, and receipt uploads.
 > Angular 19 • Ionic 7 • Capacitor • Supabase • TypeScript • PostgreSQL
 
