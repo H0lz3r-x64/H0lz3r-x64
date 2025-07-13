@@ -6,7 +6,7 @@
 <div align="center">
   <br>
 <a href="https://www.common-ground.homes" target="_blank" align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Try%20CommonGround%20now!%20%E2%9C%A8%F0%9F%92%96%20%3A)-ya?style=for-the-badge&logo=rocket&logoColor=%23673ab7&logoSize=auto&labelColor=%23f4b2dd&color=%23F5BAE0">
+  <img alt="Try My App" src="https://img.shields.io/badge/Try%20CommonGround%20now!%20%E2%9C%A8%F0%9F%92%96%20%3A)-ya?style=for-the-badge&logo=rocket&logoColor=%23673ab7&logoSize=auto&labelColor=%23f4b2dd&color=%23F5BAE0">
   <br>
   <br>
 </a>
