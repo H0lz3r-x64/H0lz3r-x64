@@ -115,11 +115,14 @@ sequenceDiagram
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H0lz3r-x64&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+
+  ![H0lz3r-x64's Streak](https://github-readme-streak-stats.herokuapp.com/?user=H0lz3r-x64&theme=merko&hide_border=false)
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=H0lz3r-x64&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0lz3r-x64&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=H0lz3r-x64&bg_color=0d1117&color=ff6ec7&line=ff6ec7&point=ffffff&hide_border=true" alt="GitHub Activity Graph" /> -->
+  
+  ![H0lz3r-x64's Stats](https://github-readme-stats.vercel.app/api?username=H0lz3r-x64&theme=merko&show_icons=true&hide_border=false&count_private=true)
+  
+  ![H0lz3r-x64's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H0lz3r-x64&theme=merko&show_icons=true&hide_border=false&layout=compact)
+  
 </div>
 
 <h2 align="center">💭 About Me</h2>
