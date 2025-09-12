@@ -1,6 +1,6 @@
 <h1 align="center">Hai, I'm Maya Holzer 👋🌸</h1>
 <p align="center">
-  <em>20 years old 🌸 | Application Developer Apprentice @ ? | Based in Graz, Austria 🇦🇹</em>
+  <em>21 years old 🌸 | Full Stack Web Developer @ <a href="https://mountain.co.at/">Mountain Media GmbH</a> <img src="Mountain_Logo.svg" alt="Mountain Logo" width="20"/>  | Based in Graz, Austria 🇦🇹</em>
 </p>
 
 <div align="center">
